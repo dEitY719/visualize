@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Deprecated.** This fork is no longer maintained. The `visualize` skill and its eval pipeline now live in [dEitY719/visuals-skills](https://github.com/dEitY719/visuals-skills) (plugin `visuals`, invoked as `/visuals:visualize`). Original upstream: [careerhackeralex/visualize](https://github.com/careerhackeralex/visualize).
+
 # ⚡ Visualize
 
 **Turn any idea into a beautiful HTML visualization — with one prompt.**
